@@ -2,6 +2,7 @@
 For digital image process final year  students
 
 1)perform 2d linear convelation (done)
+
 2)perform dft,dct (done)
 3)perform brightness enhasment,contrast manipulation, image negative of an image (done)
 4)perform threshold operation on an image(done)
