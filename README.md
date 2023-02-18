@@ -1,8 +1,10 @@
 # scilabcode
 For digital image process final year students
+Before start.
+
 Application->module manager->image processing
 
-Before start install image processing and computer vision toolbox ATMOS
+Install image processing and computer vision toolbox ATMOS
 
 1)perform 2d linear convelation (done)
 
