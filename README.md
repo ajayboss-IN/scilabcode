@@ -18,7 +18,7 @@ Install image processing and computer vision toolbox ATMOS
 
 6)perform dirlation erosion operation( not done yet)
 
-7)perform opening and closing operation (not done yet)
+7)perform opening and closing operation (done)
 
 8)read a color image anf separate the image into red blue and green planes (done)
 
