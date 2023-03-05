@@ -16,7 +16,7 @@ Install image processing and computer vision toolbox ATMOS
 
 5)perform edge detection using different edge detectors (done)
 
-6)perform dirlation erosion operation( not done yet)
+6)perform dirlation erosion operation(done)
 
 7)perform opening and closing operation (done)
 
